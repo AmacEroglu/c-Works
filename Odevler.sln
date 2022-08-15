@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "merhaba", "ödevler\merhaba.csproj", "{6EAA5A97-33E4-4C93-8B64-0452050D2F2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "works", "ödevler\works.csproj", "{6EAA5A97-33E4-4C93-8B64-0452050D2F2B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "odevlerwork", "odevlerwork", "{6FB27A5F-9A7B-46F1-BC30-1D54E5EE7808}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kullanıcıdan değer alma", "Kullanıcıdan değer alma\Kullanıcıdan değer alma.csproj", "{6F94FC34-5EB7-4AC0-A90C-14CC70B2AA3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev4", "Kullanıcıdan değer alma\odev4.csproj", "{6F94FC34-5EB7-4AC0-A90C-14CC70B2AA3C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10a kadar sayma", "10a kadar sayma\10a kadar sayma.csproj", "{7F1364D2-25BE-4D24-8A90-68065AD1645A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev8", "10a kadar sayma\odev8.csproj", "{7F1364D2-25BE-4D24-8A90-68065AD1645A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kullanıcıdan sayı alma", "Kullanıcıdan sayı alma\Kullanıcıdan sayı alma.csproj", "{3245F220-DED4-4244-9C52-2AE53DABB6CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev3", "Kullanıcıdan sayı alma\odev3.csproj", "{3245F220-DED4-4244-9C52-2AE53DABB6CB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev1", "Tek cift sayıları yazdırma\odev1.csproj", "{0FC7AD89-7280-4A6D-A9D2-D93AEF0805CA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kullanıcıdan alınan tek çift sayıları toplama", "kullanıcıdan alınan tek çift sayıları toplama\kullanıcıdan alınan tek çift sayıları toplama.csproj", "{5DFC2374-65F3-4554-BF1C-063C3BC02274}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev5", "kullanıcıdan alınan tek çift sayıları toplama\odev5.csproj", "{5DFC2374-65F3-4554-BF1C-063C3BC02274}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kullanıcıdan alınan sayının 50'den küçüklerinin toplamı", "Kullanıcıdan alınan sayının 50'den küçüklerinin toplamı\Kullanıcıdan alınan sayının 50'den küçüklerinin toplamı.csproj", "{D2D23FD0-CE04-4196-A449-9F8BC301635B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev6", "Kullanıcıdan alınan sayının 50'den küçüklerinin toplamı\odev6.csproj", "{D2D23FD0-CE04-4196-A449-9F8BC301635B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev2", "Kullanıcının toplamak istediği sayıların toplamı\odev2.csproj", "{BAFEDC3A-24A9-44CD-AA60-CE7891778402}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "girilen karakterden isim bulma", "girilen karakterden isim bulma\girilen karakterden isim bulma.csproj", "{A148BB94-9C74-4034-BFC4-ACD27E7AEC81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev7", "girilen karakterden isim bulma\odev7.csproj", "{A148BB94-9C74-4034-BFC4-ACD27E7AEC81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
