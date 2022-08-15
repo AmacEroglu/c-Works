@@ -13,13 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10a kadar sayma", "10a kada
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kullanıcıdan sayı alma", "Kullanıcıdan sayı alma\Kullanıcıdan sayı alma.csproj", "{3245F220-DED4-4244-9C52-2AE53DABB6CB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tek cift sayıları yazdırma", "Tek cift sayıları yazdırma\Tek cift sayıları yazdırma.csproj", "{0FC7AD89-7280-4A6D-A9D2-D93AEF0805CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev1", "Tek cift sayıları yazdırma\odev1.csproj", "{0FC7AD89-7280-4A6D-A9D2-D93AEF0805CA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kullanıcıdan alınan tek çift sayıları toplama", "kullanıcıdan alınan tek çift sayıları toplama\kullanıcıdan alınan tek çift sayıları toplama.csproj", "{5DFC2374-65F3-4554-BF1C-063C3BC02274}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kullanıcıdan alınan sayının 50'den küçüklerinin toplamı", "Kullanıcıdan alınan sayının 50'den küçüklerinin toplamı\Kullanıcıdan alınan sayının 50'den küçüklerinin toplamı.csproj", "{D2D23FD0-CE04-4196-A449-9F8BC301635B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kullanıcının toplamak istediği sayıların toplamı", "Kullanıcının toplamak istediği sayıların toplamı\Kullanıcının toplamak istediği sayıların toplamı.csproj", "{BAFEDC3A-24A9-44CD-AA60-CE7891778402}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev2", "Kullanıcının toplamak istediği sayıların toplamı\odev2.csproj", "{BAFEDC3A-24A9-44CD-AA60-CE7891778402}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "girilen karakterden isim bulma", "girilen karakterden isim bulma\girilen karakterden isim bulma.csproj", "{A148BB94-9C74-4034-BFC4-ACD27E7AEC81}"
 EndProject
